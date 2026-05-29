@@ -1,5 +1,7 @@
+plotly
+numpy
+streamlit
 pandas
 matplotlib
 seaborn
-plotly
-numpy
+simplejson
